@@ -7,7 +7,7 @@ using namespace std;
 namespace glowy2d
 {
 
-void start(void (*init)(), void (*update)())
+void start(std::function<void()> init, std::function<void()> update)
 {
 	std::cout << "Starting engine" << std::endl;
 	System::init();
