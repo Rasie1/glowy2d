@@ -1,7 +1,7 @@
 #pragma once
 #include <functional>
 
-namespace glowy3d
+namespace glowy2d
 {
 
 class Action

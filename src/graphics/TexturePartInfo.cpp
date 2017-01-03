@@ -2,7 +2,7 @@
 
 using namespace std;
 
-namespace glowy3d
+namespace glowy2d
 {
 
 TexturePartInfo::TexturePartInfo(const std::string& path, const rect& rectangle) : 

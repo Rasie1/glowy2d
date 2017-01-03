@@ -1,7 +1,7 @@
 #pragma once
 #include "g2dMath.h"
 
-namespace glowy3d
+namespace glowy2d
 {
 
 struct vertex

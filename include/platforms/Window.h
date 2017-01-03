@@ -4,7 +4,7 @@
 struct GLFWwindow;
 typedef GLFWwindow WindowHandle;
 
-namespace glowy3d
+namespace glowy2d
 {
 
 class Window

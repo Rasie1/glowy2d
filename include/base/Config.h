@@ -3,7 +3,7 @@
 #include <boost/optional.hpp>
 #include "g2dMath.h"
 
-namespace glowy3d
+namespace glowy2d
 {
 
 class Config

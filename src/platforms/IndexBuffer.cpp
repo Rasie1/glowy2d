@@ -9,7 +9,7 @@
 
 using namespace std;
 
-namespace glowy3d
+namespace glowy2d
 {
 
 IndexBuffer::IndexBuffer(const void *data, uint size)

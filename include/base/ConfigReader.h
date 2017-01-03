@@ -2,7 +2,7 @@
 #include <string>
 #include <map>
 
-namespace glowy3d
+namespace glowy2d
 {
 
 class ConfigReader

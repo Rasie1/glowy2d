@@ -1,7 +1,7 @@
 #pragma once
 #include "math/vertex.h"
 
-namespace glowy3d
+namespace glowy2d
 {
 
 struct quad

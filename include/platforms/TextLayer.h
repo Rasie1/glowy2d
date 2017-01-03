@@ -2,7 +2,7 @@
 #include <string>
 #include "g2dMath.h"
 
-namespace glowy3d
+namespace glowy2d
 {
 
 class TextLayer

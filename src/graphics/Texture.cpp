@@ -3,7 +3,7 @@
 
 using namespace std;
 
-namespace glowy3d
+namespace glowy2d
 {
 
 void Texture::copyTo(quad* destination)

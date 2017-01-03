@@ -2,7 +2,7 @@
 #include "base/Action.h"
 #include <functional>
 
-namespace glowy3d
+namespace glowy2d
 {
 
 class ScheduledAction : public Action

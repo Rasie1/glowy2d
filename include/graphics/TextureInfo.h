@@ -7,7 +7,7 @@
 //Conversion to TextureData
 //-add colors, hsb, shaders, rotation
 
-namespace glowy3d
+namespace glowy2d
 {
 
 class TextureInfo

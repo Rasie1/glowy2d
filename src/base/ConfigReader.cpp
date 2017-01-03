@@ -11,7 +11,7 @@ inline std::basic_istream<Char, Traits>& skip(std::basic_istream<Char, Traits>& 
 	return stream >> unused;
 }
 
-namespace glowy3d
+namespace glowy2d
 {
 
 std::map<std::string, long> ConfigReader::read(

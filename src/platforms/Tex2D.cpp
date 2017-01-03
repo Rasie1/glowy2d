@@ -7,7 +7,7 @@
 
 using namespace std;
 
-namespace glowy3d
+namespace glowy2d
 {
 
 Tex2D::Tex2D(TextureData* data) :

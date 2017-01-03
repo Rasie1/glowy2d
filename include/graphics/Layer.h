@@ -3,7 +3,7 @@
 #include "math/quad.h"
 #include "platforms/Tex2D.h"
 
-namespace glowy3d
+namespace glowy2d
 {
 
 class VertexPosBuffer;

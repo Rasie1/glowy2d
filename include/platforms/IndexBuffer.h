@@ -1,6 +1,6 @@
 #pragma once
 
-namespace glowy3d
+namespace glowy2d
 {
 
 class IndexBuffer

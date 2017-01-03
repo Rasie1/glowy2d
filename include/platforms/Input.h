@@ -5,7 +5,7 @@
 
 struct GLFWwindow;
 
-namespace glowy3d
+namespace glowy2d
 {
 
 class Input

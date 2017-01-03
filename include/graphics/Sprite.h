@@ -2,7 +2,7 @@
 #include "g2dMath.h"
 #include "math/quad.h"
 
-namespace glowy3d
+namespace glowy2d
 {
 
 class Texture;

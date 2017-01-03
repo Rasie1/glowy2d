@@ -7,7 +7,7 @@
 
 using namespace std;
 
-namespace glowy3d
+namespace glowy2d
 {
 
 static void error_callback(int error, const char *description)

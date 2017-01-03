@@ -3,7 +3,7 @@
 
 #define MAX_SCHEDULES 512
 
-namespace glowy3d
+namespace glowy2d
 {
 
 class Scheduler

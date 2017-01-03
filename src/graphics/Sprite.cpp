@@ -3,7 +3,7 @@
 
 using namespace std;
 
-namespace glowy3d
+namespace glowy2d
 {
 
 Sprite::Sprite(quad *vboPointer)

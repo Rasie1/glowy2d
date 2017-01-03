@@ -4,7 +4,7 @@
 #include "graphics/TextureData.h"
 #include "platforms/Tex2D.h"
 
-namespace glowy3d
+namespace glowy2d
 {
 	
 struct AtlasNode

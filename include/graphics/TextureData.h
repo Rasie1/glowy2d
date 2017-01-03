@@ -1,5 +1,5 @@
 /****************************************************************************
-This file is part of glowy3d.
+This file is part of glowy2d.
 
 Copyright (c) 2015 Kvachev 'Rasie1' V. D.
 
@@ -27,7 +27,7 @@ THE SOFTWARE.
 #include <cstring>
 #include "g2dMath.h"
 
-namespace glowy3d
+namespace glowy2d
 {
 
 class TextureData

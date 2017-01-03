@@ -1,7 +1,7 @@
 #pragma once
 #include <string> 
 
-namespace glowy3d
+namespace glowy2d
 {
 
 class ShaderProgram

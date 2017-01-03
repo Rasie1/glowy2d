@@ -12,7 +12,7 @@
 
 using namespace std;
 
-namespace glowy3d
+namespace glowy2d
 {
 
 Layer::Layer(uint maxSprites, uint atlasSize) :

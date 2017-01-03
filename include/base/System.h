@@ -1,5 +1,5 @@
 /****************************************************************************
-This file is part of glowy3d.
+This file is part of glowy2d.
 
 Copyright (c) 2015 Kvachev 'Rasie1' V. D.
 
@@ -24,7 +24,7 @@ THE SOFTWARE.
 #pragma once
 #include "platforms/Input.h"
 
-namespace glowy3d
+namespace glowy2d
 {
 
 class Layer;

@@ -2,7 +2,7 @@
 
 using namespace std;
 
-namespace glowy3d
+namespace glowy2d
 {
 
 quad::quad(const vertex& one,   const vertex& two,

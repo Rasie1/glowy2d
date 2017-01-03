@@ -19,7 +19,7 @@
 
 using namespace std;
 
-namespace glowy3d
+namespace glowy2d
 {
 
 Config			 * System::config;

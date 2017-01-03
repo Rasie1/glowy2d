@@ -7,7 +7,7 @@
 
 using namespace std;
 
-namespace glowy3d
+namespace glowy2d
 {
 
 UniformMat2::UniformMat2(ShaderProgram* program, 

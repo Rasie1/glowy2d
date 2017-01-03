@@ -4,7 +4,7 @@
 
 using namespace std;
 
-namespace glowy3d
+namespace glowy2d
 {
 
 TextureData::TextureData(usvec2 textureSize, ubyte *dataArray) :

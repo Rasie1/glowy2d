@@ -3,7 +3,7 @@
 #include "glm/glm.hpp"
 #include "base/System.h"
 
-namespace glowy3d
+namespace glowy2d
 {
 
 void start(void (*init)(), void (*update)());

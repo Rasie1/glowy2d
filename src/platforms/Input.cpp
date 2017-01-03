@@ -6,7 +6,7 @@
 
 using namespace std;
 
-namespace glowy3d
+namespace glowy2d
 {
 
 void callbackFunction(GLFWwindow* window, 

@@ -1,7 +1,7 @@
 #include "math/vertex.h"
 using namespace std;
 
-namespace glowy3d
+namespace glowy2d
 {
 
 vertex::vertex(const vec3& position, const vec2& texture) :

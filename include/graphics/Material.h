@@ -1,5 +1,5 @@
 /****************************************************************************
-This file is part of glowy3d.
+This file is part of glowy2d.
 
 Copyright (c) 2014 Kvachev 'Rasie1' V. D.
 

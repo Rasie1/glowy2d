@@ -1,7 +1,7 @@
 #pragma once
 #include "base/ScheduledAction.h"
 
-namespace glowy3d
+namespace glowy2d
 {
 
 class FramerateCounter : public Action

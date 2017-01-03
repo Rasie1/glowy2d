@@ -2,7 +2,7 @@
 #include "g2dMath.h"
 #include "math/quad.h"
 
-namespace glowy3d
+namespace glowy2d
 {
 
 //Texture class for passing between the sprites in the SAME layer

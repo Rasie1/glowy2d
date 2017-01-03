@@ -6,7 +6,7 @@
 
 using namespace std;
 
-namespace glowy3d
+namespace glowy2d
 {
 
 Config::Config(const std::string& filename)

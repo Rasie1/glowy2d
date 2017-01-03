@@ -2,7 +2,7 @@
 #include "graphics/Layer.h"
 #include <string>
 
-namespace glowy3d
+namespace glowy2d
 {
 
 class LineLayer : public Layer

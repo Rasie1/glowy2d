@@ -2,7 +2,7 @@
 
 using namespace std;
 
-namespace glowy3d
+namespace glowy2d
 {
 
 ScheduledAction::ScheduledAction(std::function<void()> actionFunction, double delayTime) : 
