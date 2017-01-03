@@ -1,3 +1,4 @@
+![Alt text](logo.png "glowy2d")
 # glowy3d
 
 This is a framework for creating 3d applications made for educational purposes (working environment for computer graphics course in Southern Federal University).  
