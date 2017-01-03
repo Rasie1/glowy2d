@@ -10,7 +10,7 @@ class Walker;
 class RigidLine : public Body
 {
 public:
-    RigidLine(glowy3d::vec2 p1, glowy3d::vec2 p2);
+    RigidLine(glowy2d::vec2 p1, glowy2d::vec2 p2);
     ~RigidLine() {}
 
     virtual void update(float dt);
@@ -18,11 +18,11 @@ public:
     virtual void collision(Body * other);
     virtual void collision(Circle * other);
     virtual void collision(Walker * other);
-    virtual void collision(glowy3d::vec2 lineP1, glowy3d::vec2 lineP2);
+    virtual void collision(glowy2d::vec2 lineP1, glowy2d::vec2 lineP2);
 
 private:
-    glowy3d::vec2 p1, p2;
-    glowy3d::vec2 bounce;
+    glowy2d::vec2 p1, p2;
+    glowy2d::vec2 bounce;
     bool collided;
     bool horisontal;
 };

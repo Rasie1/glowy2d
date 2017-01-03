@@ -12,7 +12,7 @@
 #include "GLFW/glfw3.h"
 
 using namespace game;
-using namespace glowy3d;
+using namespace glowy2d;
 
 World * world;
 
@@ -23,10 +23,10 @@ void init()
 
 void update()
 {
-	world->update(glowy3d::System::getDeltaTime());
+	world->update(glowy2d::System::getDeltaTime());
 }
 
 int main()
 {
-	glowy3d::start(init, update);
+	glowy2d::start(init, update);
 }

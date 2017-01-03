@@ -10,7 +10,7 @@
 #include "GlobalData.h"
 
 using namespace std;
-using namespace glowy3d;
+using namespace glowy2d;
 using namespace glm;
 namespace game
 {

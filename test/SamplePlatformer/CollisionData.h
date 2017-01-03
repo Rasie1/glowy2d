@@ -2,7 +2,7 @@
 #include <vector>
 #include "math/AdditionGLM.h"
 
-namespace glowy3d
+namespace glowy2d
 {
 class LineLayer;
 class Layer;

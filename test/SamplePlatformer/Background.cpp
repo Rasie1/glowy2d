@@ -6,12 +6,12 @@
 
 using namespace glm;
 using namespace std;
-using namespace glowy3d;
+using namespace glowy2d;
 namespace game
 {
 
 Background::Background(const string& image) :
-    backgroundLayer(new glowy3d::Layer(8, 2048))
+    backgroundLayer(new glowy2d::Layer(8, 2048))
 {
     backgroundLayer->add((image + ".png").c_str());
     backgroundLayer->setZOrder(0.9f);

@@ -15,5 +15,5 @@ void update()
 
 int main()
 {
-    glowy3d::start(init, update);
+    glowy2d::start(init, update);
 }

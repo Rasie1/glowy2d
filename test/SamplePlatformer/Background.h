@@ -14,7 +14,7 @@ public:
     int update(float dt);
     void draw();
 private:
-    glowy3d::Layer * backgroundLayer;
+    glowy2d::Layer * backgroundLayer;
 };
 
 }

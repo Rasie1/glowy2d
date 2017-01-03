@@ -18,7 +18,7 @@ public:
     int update(float dt);
 private:
     void draw();
-    glowy3d::Layer * mapLayer;
+    glowy2d::Layer * mapLayer;
     Background * background;
     CollisionData * collisionData;
     std::vector<Actor*> actors;

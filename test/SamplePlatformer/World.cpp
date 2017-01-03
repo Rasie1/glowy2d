@@ -15,7 +15,7 @@
 
 using namespace glm;
 using namespace std;
-using namespace glowy3d;
+using namespace glowy2d;
 namespace game
 {
 
@@ -23,7 +23,7 @@ void appendDirection(string& name, CollisionData * collisionData, usvec2 pos);
 void randomizeIfPossible(string& name);
 
 World::World(const MapInfo& map) :
-    mapLayer(new glowy3d::Layer(2048, 2048)),
+    mapLayer(new glowy2d::Layer(2048, 2048)),
     background(new Background(map.backgroundImage)),
     collisionData(new CollisionData(map))
 {

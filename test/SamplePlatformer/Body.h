@@ -41,7 +41,7 @@ private:
 
     glm::vec2 velocity;
 
-    glowy3d::Layer * layer;
+    glowy2d::Layer * layer;
 
     bool floating;
     bool solid;

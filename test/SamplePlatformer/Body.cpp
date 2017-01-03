@@ -12,7 +12,7 @@ namespace game
 
 Body::Body(glm::vec2 pos) :
     pos(pos),
-    layer(new glowy3d::Layer(4)),
+    layer(new glowy2d::Layer(4)),
     floating(false),
     solid(true),
     velocity(0.f, 0.f)

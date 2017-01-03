@@ -13,7 +13,7 @@ target_link_libraries(sampleplatformer
                       ${Boost_FILESYSTEM_LIBRARY}
                       ${Boost_SYSTEM_LIBRARY}
                       ${Boost_UNIT_TEST_FRAMEWORK_LIBRARY}
-                      glowy3d
+                      glowy2d
                       glfw3
                       m rt
                       GL GLU
@@ -25,4 +25,4 @@ target_link_libraries(sampleplatformer
                       )
 
 enable_testing()
-add_test(glowy3d sampleplatformer)
+add_test(glowy2d sampleplatformer)

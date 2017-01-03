@@ -7,7 +7,7 @@ namespace game
 class Circle : public Body
 {
 public:
-    Circle(glm::vec2 pos, float radius, glowy3d::vec2 bounce);
+    Circle(glm::vec2 pos, float radius, glowy2d::vec2 bounce);
     virtual ~Circle() {}
 
     virtual void update(float dt);
